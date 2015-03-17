@@ -1,1 +1,1 @@
-scp gameexperience.html root@varunramesh.net:/sites/varunramesh.net/public
+scp gameexperience.html root@varunramesh.net:/sites/varunramesh.net/public/gameexperience.html
